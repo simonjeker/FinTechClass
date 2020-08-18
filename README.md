@@ -1,6 +1,6 @@
 # FinTechClass
 
-![ATV Ready](C:\Users\16177\Pictures\Saved Pictures\IMG_4115.jpg)
+![New to coding](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2019%2F01%2Fcanva-photo-editor-8-7.jpg)
 
 ## About Me
 My Name is Simon Jeker. Econ major and BA's in Jazz Composition and Music Synth and Tech, with 12 years of experience writing music for TV and video games. Stay at home dad of 2 kiddos turned into owning and operating a furniture design and build shop for the past 5 years.
