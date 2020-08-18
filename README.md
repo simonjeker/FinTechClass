@@ -1,6 +1,6 @@
 # FinTechClass
 
-![ATV Ready] (C:\Users\16177\Pictures\Saved Pictures)
+![ATV Ready] (C:\Users\16177\Pictures\Saved Pictures\IMG_4115.jpg)
 
 ## About Me
 My Name is Simon Jeker. Econ major and BA's in Jazz Composition and Music Synth and Tech, with 12 years of experience writing music for TV and video games. Stay at home dad of 2 kiddos turned into owning and operating a furniture design and build shop for the past 5 years.
@@ -12,7 +12,7 @@ I'm interested in learning the technical aspect not just getting a deep understa
 Having a strong interest in economics and finances, FinTech has without a doubt caught my interest.
 
 ### Table of Contents
-[Code] (C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\code)
-[Data] (C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\data)
-[Images] (C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\images)
-[References] (C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\references)
+*[Code](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\code)
+*[Data](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\data)
+*[Images](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\images)
+*[References](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\references)
