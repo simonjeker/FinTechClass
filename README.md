@@ -12,7 +12,7 @@ I'm interested in learning the technical aspect not just getting a deep understa
 Having a strong interest in economics and finances, FinTech has without a doubt caught my interest.
 
 ### Table of Contents
-*[Code](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\code)
-*[Data](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\data)
-*[Images](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\images)
-*[References](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\references)
+*[Code](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\code) --
+[Data](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\data) --
+[Images](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\images) --
+[References](C:\Users\16177\Desktop\FintechHW\Git\FinTechClass\references) --
